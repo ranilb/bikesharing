@@ -26,3 +26,13 @@ Another important information we can find out is that the number of rides in eac
 
 
   As we can observed, the peak hours are from 5:00 PM to 7:00 PM.
+
+  In addition to the above information, the symbol maps for Top starting point and the Top ending points were created. The top starting point map is shown below. Dark blue represents the most popular stations and light blue represents less popular stations. 
+
+  
+  <img width="420" alt="Screenshot 2023-08-23 at 2 24 04 PM" src="https://github.com/ranilb/bikesharing/assets/112113327/791f6fb4-b8e5-4cf3-8209-6d32d4d6f0ea">
+
+Also, the top ending point map is shown below. Red represents the most popular stations and the gold represents less popular areas.
+
+  <img width="447" alt="Screenshot 2023-08-23 at 2 23 17 PM" src="https://github.com/ranilb/bikesharing/assets/112113327/a5257dc2-2c38-4dcb-a546-ba2b564f8b3b">
+
