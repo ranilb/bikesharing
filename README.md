@@ -45,3 +45,9 @@ When we consider the total number of rides, 1,530,272 are males, 588,431 are fem
 Next the averate duration of rides was computed for each person's birth year. The results are shown below. It can be observe that the duration of young riders are longer than the others. That means, in general, the later the birth year, the longer the ride duration. 
 
   <img width="713" alt="Screenshot 2023-08-24 at 1 13 37 PM" src="https://github.com/ranilb/bikesharing/assets/112113327/9c73cb11-b706-48ca-b219-aa19604492f7">
+
+
+#### Which bikes needs repairs
+The bikes used most frequently will probably be the ones that require the most maintenance. Therefore, we are going to determine which bikes have the highest sum of "Number of Rides." The following figure shows the mumber of rides for each bike ID.
+
+  <img width="739" alt="Screenshot 2023-08-24 at 2 05 52 PM" src="https://github.com/ranilb/bikesharing/assets/112113327/39296dc2-217d-4cf9-92e5-4a21900de52e">
