@@ -41,3 +41,7 @@ When we consider the total number of rides, 1,530,272 are males, 588,431 are fem
 
   <img width="196" alt="Screenshot 2023-08-24 at 10 23 36 AM" src="https://github.com/ranilb/bikesharing/assets/112113327/dc4dc429-29ba-4389-995d-a98e92238199">  <img width="118" alt="Screenshot 2023-08-24 at 10 52 06 AM" src="https://github.com/ranilb/bikesharing/assets/112113327/41be3c81-3b3f-4b6c-9c56-b3f86d99a752">
 
+#### Average Trip Duration
+Next the averate duration of rides was computed for each person's birth year. The results are shown below. It can be observe that the duration of young riders are longer than the others. That means, in general, the later the birth year, the longer the ride duration. 
+
+  <img width="713" alt="Screenshot 2023-08-24 at 1 13 37 PM" src="https://github.com/ranilb/bikesharing/assets/112113327/9c73cb11-b706-48ca-b219-aa19604492f7">
