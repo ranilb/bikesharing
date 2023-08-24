@@ -36,3 +36,8 @@ Also, the top ending point map is shown below. Red represents the most popular s
 
   <img width="447" alt="Screenshot 2023-08-23 at 2 23 17 PM" src="https://github.com/ranilb/bikesharing/assets/112113327/a5257dc2-2c38-4dcb-a546-ba2b564f8b3b">
 
+#### Gender Breakdown
+When we consider the total number of rides, 1,530,272 are males, 588,431 are females and the 225,521 are unkown. Therefore, we can observe that the male riders are about three times more than the female riders. The following pie-chart shows the results.
+
+  <img width="196" alt="Screenshot 2023-08-24 at 10 23 36 AM" src="https://github.com/ranilb/bikesharing/assets/112113327/dc4dc429-29ba-4389-995d-a98e92238199">  <img width="118" alt="Screenshot 2023-08-24 at 10 52 06 AM" src="https://github.com/ranilb/bikesharing/assets/112113327/41be3c81-3b3f-4b6c-9c56-b3f86d99a752">
+
